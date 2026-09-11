@@ -6,7 +6,9 @@
 ## About me :)
 Saya adalah siswa X RPL 1 dari SMKN 1 Purwosari
 
-| tes | tes |
+| Hobi | Larp |
+| Status | Esemka |
+| Kegiatan | Nolep |
 | :--- | :--- |
 <!--
 **abdulkhaniflohyah/abdulkhaniflohyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
