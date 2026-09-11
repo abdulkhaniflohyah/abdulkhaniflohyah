@@ -7,7 +7,9 @@
 Saya adalah siswa X RPL 1 dari SMKN 1 Purwosari
 
 | Hobi | Larp |
+| :--- | :--- |
 | Status | Esemka |
+| :--- | :--- |
 | Kegiatan | Nolep |
 | :--- | :--- |
 <!--
